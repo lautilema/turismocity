@@ -1,61 +1,6 @@
-.img1 {
+.img{
     width: 400px;
     margin-left: 45px;
     margin-top: 150px;
     border-radius: 50px;
-}
-
-.img2 {
-    width: 400px;
-    margin-left: 45px;
-    margin-top: 100px; 
-    border-radius: 50px;
-}
-
-.img3 {
-    width: 400px;
-    margin-left: 55px;
-    margin-top: 150px;
-}
-
-.img4 {
-    width: 150px;
-    margin-left: 45px;
-    margin-top: 5px;
-}
-
-.img5 {
-    width: 150px;
-    margin-left: 300px;
-    margin-top: 5px;
-}
-
-.img6 {
-    width: 150px;
-    margin-left: 930px;
-    margin-top: -60px;
-}
-
-.img7 {
-    width: 400px;
-    margin-left: 150px;
-    margin-top: 100px;
-}
-
-.img8 {
-    width: 400px;
-    margin-left: 300px;
-    margin-top: 100px;
-}
-
-.img9 {
-    width: 150px;
-    margin-left: 140px;
-    margin-top: 10px;
-}
-
-.img10 {
-    width: 150px;
-    margin-left: 550px;
-    margin-top: 10px;
 }
